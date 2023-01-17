@@ -35,7 +35,7 @@
 https://github.com/candicewongls/generate-password
 
 ## Live URL
- https://candicewongls.github.io/Console-Finances/
+https://candicewongls.github.io/generate-password/
 
 ## Credit
 https://www.w3schools.com/js/
